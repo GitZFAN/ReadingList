@@ -3,4 +3,7 @@ the paper lists of fanZ for organized viewed.
 
 2018.12.11 Apache Flink™: Stream and Batch Processing in a Single Engine
 
- ->> Husky: Towards a More Efficient and Expressive Distributed Computing Framework
+...
+
+2019.9.15 High-Level Programming Abstractions for Distributed Graph Processing
+
