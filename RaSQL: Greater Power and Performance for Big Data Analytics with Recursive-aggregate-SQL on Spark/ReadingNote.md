@@ -1,4 +1,4 @@
-# **RaSQL: Greater Power and Performance for Big Data Analytics with Recursive-aggregate-SQL on Spark**
+# RaSQL: Greater Power and Performance for Big Data Analytics with Recursive-aggregate-SQL on Spark
 
 ### 1. Source
 
@@ -26,3 +26,12 @@
 
 ### 3. Introduction
 
+### 4. The RaSQL Language
+
+### Experiment
+
+- how to **evaluate the performance** of the RaSQL system?
+  - 比较 the **query execution time** on 不同大小的 synthetic and real world 数据集
+  - 对比系统：Apache Giraph, GraphX, BigDatalog, Myria
+
+- 
